@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "4B0zP0AI6WCpEzCK0A9HFuxn2I+9b/CnJHOcofWB2OY=",
+  "Source": "WCFService",
+  "BasePath": "_content/WCFService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
